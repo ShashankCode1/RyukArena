@@ -18,7 +18,7 @@ The objective of the game is to move and rotate falling geometric shapes to form
 
 ## Author
 
-GitHub : [RyukGitHub](https://github.com/RyukGitHub)
+GitHub : [Shashank](https://github.com/ShashankCode1)
 
 ## Conclusion
 
