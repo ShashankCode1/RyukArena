@@ -20,7 +20,7 @@ Score will be recorded with respective to eating apples.
 
 ## Author
 
-GitHub : [RyukGitHub](https://github.com/RyukGitHub)
+GitHub : [Shashank](https://github.com/ShashankCode1)
 
 ## Conclusion
 
