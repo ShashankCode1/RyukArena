@@ -9,7 +9,7 @@ Check out my Website here : http://ryukpanel.000webhostapp.com/
 
 ## Author
 
-GitHub : [RyukGitHub](https://github.com/RyukGitHub)
+GitHub : [Shashank](https://github.com/ShashankCode1)
 
 ## Conclusion
 
