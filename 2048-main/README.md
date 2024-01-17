@@ -18,7 +18,7 @@ The objective of the game is to slide numbered tiles on a grid to combine them t
 
 ## Author
 
-GitHub : [RyukGitHub](https://github.com/RyukGitHub)
+GitHub : [Shashank](https://github.com/ShashankCode1)
 
 ## Conclusion
 
