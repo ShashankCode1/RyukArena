@@ -14,7 +14,7 @@
 
 ## Author
 
-GitHub : [RyukGitHub](https://github.com/RyukGitHub)
+GitHub : [Shashank](https://github.com/ShashankCode1)
 
 ## Conclusion
 
